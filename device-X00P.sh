@@ -10,6 +10,7 @@
 TARGET_USES_GCC=true
 
 # Environment
+TARGET_ARCH=arm64
 TARGET_KERNEL_VERSION=3.18
 
 # Kernel
