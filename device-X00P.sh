@@ -6,5 +6,9 @@
 # SPDX-License-Identifier: Apache-2.0 license
 #
 
+# Compiler
+TARGET_USES_GCC=true
+
+# Kernel
 KERNEL_DEFCONFIG=X00P_defconfig
 KERNEL_DIR="kernel/asus/X00P"
